@@ -3,7 +3,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/en/6/6b/GMIT_Logo_2011a.jpg)
 
-Lecturer: : Brian McGinley 
+Lecturer: : Dr Brian McGinley 
 Module: Programming For Data Analysis 
 Author: Enda Lynch  
 Github Username: Lynch08  
@@ -19,21 +19,22 @@ See  - main headings are hyperlinked.
 
 ## Planned Project Outcomes
 1. To break the project and assignment down into small manageable tasks
-2. To gain an understanding of how to simulate rele
+2. To gain an understanding of how to simulate relevent data
 3. To integrate the skills I had acquired so far in this course to visualise and analyse my "datasets", and display my findings
 4. To expand my knowledge of the python libraries and tools to make the code as simple and readable as possible for the reader
 5. To learn how to best optimise my time between research, programming, problem-solving and analysis.
 
 ## The Task and Expectations
-[Assessment Sheet](https://github.com/Lynch08/Fundementals_Of_Data_Analysis/blob/main/Fundamentals%20of%20Data%20Analysis%20assessment%20sheet.pdf)
+[Assessment Sheet](https://github.com/Lynch08/Programming_For_Data_Analysis/blob/main/ProgDAProject.pdf)
 
 ## The Repository Content 
- - 2 jupyter notebooks (pyplot.ipynb and cao.ipynb) that holds the explanation, code, visuals and citeations for the assignment and project.
- - The assignment and project details in PDF form from Dr. Ian Mcloughlin
+ - 1 jupyter notebooks (movie_ticket_sales.ipynb) that holds the explanation, code, visuals and citeations for the assignment and project.
+ - The assignment and project details in PDF form from Dr. Brian McGinley
  - A requirments.txt file that contains all of the dependancies required to run the both notebooks from the repository in the same environment
  - A readme file explaining the objectives, outcomes and instructions on how to view the notebook in both editable and static format.
- - A data_pyplot folder that contains nfl_2020_team_data.csv a csv file that I read in for one of my plots in pyplot.ipynb and irisdata.csv a csv file of the Iris data set for one of my plots in pyplot.ipynb
- - A data_cao folder that contains 2 edited CSV files (2019POINTS_20211104103000_edited.csv and ForExFix_comp.csv). I did some manual changes in excel to clean the data.
+ - A data folder that contains yearly_ticket_sales.csv. A csv file that I read in to analyse so I can simulate similar data.
+ - An images folder for any images I have used
+
 
 ## View Notebook in Static Format(Online)
 If you wish to view the pyplot.ipynb notebook in static (uneditable) format click here:  
@@ -62,19 +63,18 @@ See this video for full instructions on how to install: https://www.youtube.com/
         - [Pandas](https://pandas.pydata.org/docs/)
         - [matplotlib.pyplot](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html)
         - [Seaborn](https://seaborn.pydata.org/)
-        - [Reg-Ex(Re)](https://docs.python.org/3/library/re.html)
-        - [PyPDF2](https://pythonhosted.org/PyPDF2/PdfFileReader.html)
-        - [Requests](https://docs.python-requests.org/en/latest/)
-        - [urllib.request](urllib.request)
-        - [Datetime](https://docs.python.org/3/library/datetime.html)
-
+        - [Random](https://docs.python.org/3/library/random.html)
+        - [Scipy](https://docs.scipy.org/doc/scipy/reference/)        
+        - [Scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
+        - [Numpy.random](https://numpy.org/doc/stable/reference/random/index.html)
+   
 **Not required but helpful**  
 cmder - this is a command line emulator that in my opinion is easier to use and cleaner than the windows cmd window. [Download Cmder Here](https://cmder.net/)
 
 
-### Notebook Dependancies 
-
-##### xxxx.ipynb
+### Notebook Dependancies  
+##### movie_ticket_sales.ipynb  
+yearly_ticket_sales.csv - located in the data folder
 
 ### Running the Jupyter Notebook
  - On the command line navigate to the folder location where the repository has been downloaded and saved to using the cd command to change directory.  
@@ -89,13 +89,4 @@ cmder - this is a command line emulator that in my opinion is easier to use and 
 
 
 ## Citations
-
-
-
-
-## pyplot.ipynb
-
-
-#### Explore
-
-
+See bottom of Notebook
