@@ -10,7 +10,7 @@ Github Username: Lynch08
 GMIT Email: G003987951@gmit.ie  
 Personal Email: E.Lynch@Kostal.com  
 
-This repository contains one jupter notebook where I looked at a data set containg values related to attendence since 1995 .    
+This repository contains one jupter notebook where I looked at a data set containg values related to movie attendence since 1995. (movie_ticket_sales.ipynb)
 
 
 ## Table of Contents
@@ -19,7 +19,7 @@ See  - main headings are hyperlinked.
 
 ## Planned Project Outcomes
 1. To break the project and assignment down into small manageable tasks
-2. To gain an understanding of the matplotlib.pyplot package
+2. To gain an understanding of how to simulate rele
 3. To integrate the skills I had acquired so far in this course to visualise and analyse my "datasets", and display my findings
 4. To expand my knowledge of the python libraries and tools to make the code as simple and readable as possible for the reader
 5. To learn how to best optimise my time between research, programming, problem-solving and analysis.
