@@ -38,7 +38,7 @@ See  - main headings are hyperlinked.
 
 ## View Notebook in Static Format(Online)
 If you wish to view the pyplot.ipynb notebook in static (uneditable) format click here:  
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)(https://nbviewer.org/github/Lynch08/Fundementals_Of_Data_Analysis/blob/main/pyplot.ipynb)  
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)(https://nbviewer.org/github/Lynch08/Programming_For_Data_Analysis/blob/main/movie_ticket_sales.ipynb)  
 
 
 
